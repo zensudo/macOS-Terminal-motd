@@ -2,7 +2,9 @@
 
 This script enables a motd with different stats of the device.
 
-
+<p align="center">
+  <img alt="motd macOS" src="https://github.com/JSG01/motd/blob/master/motd.png?raw=true">
+</p>
 
 
 
