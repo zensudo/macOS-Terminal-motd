@@ -1,7 +1,18 @@
-<h1 align="center">
+<h1>
 Do not use this script!
 There are some issues at the moment.
 </h1>
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
 
 # Message of the day for macOS
 
